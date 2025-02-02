@@ -4,7 +4,7 @@
 ![Top150](https://img.shields.io/badge/Top-150_Companies-red)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-Welcome to **AlgoMastery**, a comprehensive collection of algorithm solutions for the **Top 150 LeetCode problems** frequently asked by top companies. This repository showcases my journey in mastering algorithms and data structures by solving, modifying, and optimizing popular coding challenges.
+Welcome to **AlgoMastery**, a comprehensive collection of algorithm solutions for the **Top 150 LeetCode problems** ,  **Groking Algorithms book** frequently asked by top companies. This repository showcases my journey in mastering algorithms and data structures by solving, modifying, and optimizing popular coding challenges.
 
 ## 🎯 Goal
 The primary aim of this repository is to:
@@ -22,4 +22,17 @@ The repository is structured as follows:
   - A **step-by-step breakdown** of the solution.
   - The **code solution**.
 
-The folder structure is as follows:
+
+## 📝 Problems Covered
+The repository covers problems from the following categories:
+- **Arrays & Strings** 🌟
+- **Dynamic Programming** 🧠
+- **Hashing** 🔑
+- **Two Pointers** 🎯
+- **Greedy Algorithms** 🚀
+- **Trees & Graphs** 🌳
+- **Backtracking & Recursion** 🔄
+- **Stacks & Queues** 📚
+
+
+
