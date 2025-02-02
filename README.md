@@ -1,7 +1,6 @@
 # AlgoMastery 🚀
 ![LeetCode](https://img.shields.io/badge/LeetCode-150_Problems_Challenge-orange)
 ![Algorithms](https://img.shields.io/badge/Algorithms-Mastery-blue)
-![Python](https://img.shields.io/badge/Language-Python-green)
 ![Top150](https://img.shields.io/badge/Top-150_Companies-red)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
