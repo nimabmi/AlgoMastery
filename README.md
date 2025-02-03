@@ -15,12 +15,13 @@ The primary aim of this repository is to:
 
 ## 🗂️ Repository Structure
 The repository is structured as follows:
-- Each problem is solved in **Python**, **C++** and **BASH** and I plan to include detailed comments and explanations within the code.
+- Each problem is solved in **Python**, **C++** or **BASH** and I plan to include detailed comments and explanations within the code.
 - Each problem solution has its own folder containing:
   - The **problem description**.
   - My **approach and optimizations**.
   - A **step-by-step breakdown** of the solution.
   - The **code solution**.
+  - Optimized version in time or memory
 
 
 ## 📝 Problems Covered
