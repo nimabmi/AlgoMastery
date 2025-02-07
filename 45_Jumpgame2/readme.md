@@ -13,18 +13,12 @@ The goal is to return the minimum number of jumps required to reach nums[n-1].
 ## Example
 Example 1:
 
-vbnet
-Copy
-Edit
 Input: nums = [2,3,1,1,4]
 Output: 2
 Explanation: The minimum number of jumps to reach the last index is 2. 
 Jump 1 step from index 0 to 1, then 3 steps to the last index.
-Example 2:
 
-makefile
-Copy
-Edit
+Example 2:
 Input: nums = [2,3,0,1,4]
 Output: 2
 
