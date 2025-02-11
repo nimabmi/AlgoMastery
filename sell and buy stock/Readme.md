@@ -11,7 +11,7 @@ This repository contains Python code implementations for solving the stock profi
 
 ---
 
-## 1. `max_profit_single_transaction(prices)`
+# 1. `max_profit_single_transaction(prices)`
 
 ### Purpose
 
@@ -72,7 +72,7 @@ Time Complexity
 
 The algorithm has a time complexity of O(n), where n is the number of days (length of the prices list), as it iterates through the prices list once.
 
-2. max_profit_multiple_transactions(prices)
+# 2. max_profit_multiple_transactions(prices)
 Purpose
 
 This function calculates the maximum profit that can be made by buying and selling a stock multiple times. You can perform as many transactions as you want, as long as you buy before you sell.
